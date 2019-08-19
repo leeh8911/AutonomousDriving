@@ -1,2 +1,11 @@
 # AutonomousDriving
-studying algorithm repository
+이 저장소는 자율주행 자동차의 인지/판단/제어에 대한 내용을 정리하기 위해 만들어 졌습니다.
+
+저장소의 구조는 아래와 같습니다.
+
+- Perception(인지)
+- Decision(판단)
+- Control(제어)
+- DynamicModels(동적 모델)
+
+각 폴더에는 해당 분야의 알고리즘을 구현한 코드(matlab, ...)와 알고리즘을 설명하기 위한 문서 및 참조 논문이 포함되어 있습니다.  DynamicModels(동적 모델) 폴더에는 실제 알고리즘이 작동하기 위한 시뮬레이션을 구현하기 위한 동적 모델이 포함되어 있습니다.
